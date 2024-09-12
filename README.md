@@ -1,3 +1,8 @@
+# Attention
+This repositor'strategies have lookahead issue.
+`Are you planning to add any kind of disclaimer to your site that detects and reports lookahead or recursive bias in the strategies you backtest? From the "top 10" strategies you have listed in any given week, typically at least 4 have known lookahead issues, probably more. People will think these strategies are profitable when they are far from it.`
+
+
 # Freqtrade Strategies Repository
 
 This repository is dedicated to sharing open-source trading strategies for the Freqtrade cryptocurrency trading bot. We encourage contributors to help keep these strategies up to date with the latest Freqtrade versions and to add new strategies to benefit the community.
